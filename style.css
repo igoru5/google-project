@@ -1,0 +1,26 @@
+body {
+	background-color: white;
+}
+
+.center{
+	text-align: center;
+}
+
+.logo {
+	display: inline-block;
+	padding-top: 20%;
+}
+
+.wrapper {
+	text-align: center;
+	padding: 30px;
+}
+
+input {
+    width: 600px;
+}
+
+.hibiki img {
+    width: 20%;
+    max-width: 150px;
+}
