@@ -7,6 +7,8 @@ This project was created in order to practice HTML, CSS, GoogleDev tools, Ubuntu
 If there are any feedbacks pertaining to this, please contact me @ igor.hibiki@gmail.com
 
 0.0.1 - Created files and first commit. 
+
 0.0.2 - Created Hibiki logo! :) 
+
 0.0.3 - Started the general layout and synchronized files from Codepen. First CSS outline and HTML sketch defined.
 
