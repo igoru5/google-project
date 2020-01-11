@@ -1,6 +1,4 @@
-Odin Project HTML Assignment - Igor Soares 
-
-All images, logos and rights reserved to Google.
+Odin Project HTML Assignment - Igor Soares
 
 This project was created in order to practice HTML, CSS, GoogleDev tools, Ubuntu terminal usage and Github publishing. This is not meant to be anything extremely serious - just a little fun with learning. :) 
 
